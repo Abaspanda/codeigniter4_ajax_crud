@@ -1,0 +1,97 @@
+/* Form Error Messages */
+label.error {
+    color: #f11212;
+    font-style: italic;
+}
+
+/* DataTable action buttons */
+.checkbox,
+.checkbox2 {
+    width: 20px;
+    height: 20px;
+}
+
+/* Styling for button groups used with DataTables */
+.btn-group button {
+    background: none;
+    color: #fff;
+    border: 2px solid #fff;
+}
+
+/* DataTables buttons background */
+.dt-buttons {
+    background: #635f5f;
+}
+
+/* Styling for DataTables buttons */
+.dt-buttons button {
+    padding: 0.3rem 1rem;
+}
+
+/* Button hover styles */
+.btn-group button:hover {
+    border: 2px solid #fff;
+}
+
+/* Styling for different button colors */
+.btn-group button:nth-child(1):hover {
+    background-color: var(--bs-danger);
+}
+
+.btn-group button:nth-child(2):hover {
+    background-color: var(--bs-success);
+}
+
+.btn-group button:nth-child(3):hover {
+    background-color: var(--bs-danger);
+}
+
+.btn-group button:nth-child(4):hover {
+    background-color: var(--bs-dark);
+}
+
+/* Table profile picture */
+.tableProfile {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+/* Styling for profile image updates */
+.updateimg {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+/* View Card Styles */
+.blue {
+    background-color: var(--bs-primary);
+    min-height: 150px;
+    width: 100%;
+}
+
+.white {
+    background-color: #fff;
+    height: 250px;
+}
+
+.cover {
+    position: absolute;
+    top: 2rem;
+    right: 0;
+    left: 0;
+}
+
+.cover img {
+    width: 150px;
+    height: 150px;
+    border: 3px solid #fff;
+}
+
+.cover h3 {
+    line-height: 4rem;
+    font-weight: 700;
+    color: #333;
+}
