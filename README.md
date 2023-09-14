@@ -41,7 +41,7 @@ This is a CRUD (Create, Read, Update, Delete) web application built using CodeIg
 1. Clone the repository to your local environment:
 
    ```shell
-   git clone https://github.com/your/repository.git
+   git clone https://github.com/Abaspanda/codeigniter4_ajax_crud.git
    ```
 
 2. Navigate to the project directory:
